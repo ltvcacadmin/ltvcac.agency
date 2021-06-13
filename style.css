@@ -462,24 +462,24 @@ p{
 	padding-bottom : 3.4rem;
 	padding-top : 4.3rem;
 }
-.header .menu {
+.header .hmenu {
   margin-top: 20px;
 }
-.header .menu li {
+.header .hmenu li {
     display: inline-block;
     padding: 0 12px;
     border-right: 1px solid #7d7d7d;
 }
-.header .menu li:last-child{
+.header .hmenu li:last-child{
   border-right: 0;
 }
-.header .menu a{
+.header .hmenu a{
       color: #fff;
       opacity: 1;
     font-weight: 300;
     transition: 0.5s;
 }
-.header .menu a:hover{
+.header .hmenu a:hover{
   opacity: 0.8;
 }
 
