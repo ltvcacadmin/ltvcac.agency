@@ -455,12 +455,12 @@ p{
 }
 
 .header{
-	background : #000;
-	color : #5d5d5d;
-	font-size : 14px;
-	font-weight : 400;
-	padding-bottom : 3.4rem;
-	padding-top : 4.3rem;
+	background: #E85C54;
+	color: #FFFFFF;
+	font-size: 20px;
+	font-weight: 500;
+	padding-bottom: 1.3rem;
+	padding-top: 0.1rem;
 }
 .header .hmenu {
   margin-top: 20px;
@@ -468,7 +468,7 @@ p{
 .header .hmenu li {
     display: inline-block;
     padding: 0 12px;
-    border-right: 1px solid #7d7d7d;
+    border-right: 1px solid #ffffff;
 }
 .header .hmenu li:last-child{
   border-right: 0;
