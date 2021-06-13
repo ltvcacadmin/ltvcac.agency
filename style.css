@@ -463,7 +463,7 @@ p{
 	padding-top : 4.3rem;
 }
 .header .menu {
-  margin-bottom: 20px;
+  margin-top: 20px;
 }
 .header .menu li {
     display: inline-block;
@@ -522,6 +522,7 @@ p{
 .footer .address p{
 	margin : 0;
 }
+
 @media screen and (min-width: 1024px){ 
   .intro .inner{
     height: 664px;
